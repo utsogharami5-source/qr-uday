@@ -1,8 +1,0 @@
-
-{
-  "name": "QR UDAY 3D - AI Powered QR Generator",
-  "description": "A futuristic, 3D-styled QR code generator that supports text, URLs, and file metadata with high-fidelity animations and AI-enhanced labeling.",
-  "requestFramePermissions": [
-    "camera"
-  ]
-}
